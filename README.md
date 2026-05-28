@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Om! 👋
+
+### 👨‍💻 ML & Computer Vision Enthusiast
+I am a passionate developer focused on building intelligent systems using Machine Learning, Computer Vision, and Python.
+
+- 🛠️ **Current Project:** Working on [Gesture Flow](https://github.com/ombansal1224-max/Gesture-Flow-A-seamless-NLP-pipeline-for-sign-language-detection.) (Real-time Sign Language Detection)
+- 🧠 **Tech Stack:** Python, TensorFlow, MediaPipe, OpenCV, Git
+- 📫 **Reach me at:** ombansal1224@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/om-bansal-592930344?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 
 <!--
 **ombansal1224-max/ombansal1224-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
